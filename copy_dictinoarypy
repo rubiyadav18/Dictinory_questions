@@ -1,0 +1,7 @@
+clases={
+    "ram" :"12",
+    "sanam" :"11",
+    "raaj" : "10",
+    }
+name=clases.copy()
+print(name)

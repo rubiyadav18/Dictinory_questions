@@ -1,0 +1,9 @@
+fess={"rahul":2000,"sonam":3000,"raaj":400,"raam":500,"poonam":600,"rabiya":700,}
+print(fess)
+print(fess["rahul"])
+print(fess["raaj"])
+print(fess["sonam"])
+print(fess["rabiya"])
+print(fess["poonam"])
+print(fess["raam"])
+print(fess(200))
